@@ -33,8 +33,30 @@ Make sure Python 3 is installed on your system.
 2. Navigate to the folder where this file is located.
 3. Run the following command:
 
+   # Task 2 – Number Guessing Game
+
+This project is a simple Python game where the user has to guess a randomly generated number between 1 and 100.
+
+## Features
+- Generates a random number for the user to guess.
+- Provides hints if the guess is too low or too high.
+- Counts and displays the number of attempts taken.
+- Handles invalid inputs with error messages.
+
+## How to Run
+
+Make sure Python 3 is installed on your system.
+
+1. Open the terminal or command prompt.
+2. Navigate to the folder where this file is located.
+3. Run the following command:
+
 ```bash
-python calculator.py
+python number_guessing_game.py
+
+
+```bash
+
 
 
 - ...
